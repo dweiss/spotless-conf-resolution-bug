@@ -1,0 +1,8 @@
+# Run ./gradlew --write-locks to regenerate this file
+org.apache.lucene:lucene-analyzers-common:8.9.0 (1 constraints: 4d13f034)
+org.apache.lucene:lucene-analyzers-morfologik:8.9.0 (1 constraints: 13052e36)
+org.apache.lucene:lucene-core:8.9.0 (1 constraints: 4d13f034)
+org.carrot2:morfologik-fsa:2.1.5 (1 constraints: 4413bf34)
+org.carrot2:morfologik-polish:2.1.5 (1 constraints: 4413bf34)
+org.carrot2:morfologik-stemming:2.1.5 (1 constraints: 4413bf34)
+ua.net.nlp:morfologik-ukrainian-search:4.9.1 (1 constraints: 4a13dd34)
